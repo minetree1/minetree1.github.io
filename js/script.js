@@ -8,7 +8,7 @@ const config = {
     serverInfo: {
         serverLogoImageFileName: "logo.png", /*This is a file name for logo in /images/ (If you upload new logo with other name, you must change this value)*/
         serverName: "MineTree", /*Server name*/
-        serverIp: "play.minetree.xyz", /*Server IP (if you want to add online user counter, you must have true the enable-status and enable-query of server.properties)*/
+        serverIp: "mc.minetree.xyz", /*Server IP (if you want to add online user counter, you must have true the enable-status and enable-query of server.properties)*/
         discordServerID: "1224006980230975599" /*Your server ID (if you want to add online user counter, you must have enabled Discord server widget)*/
     },
 
@@ -46,25 +46,25 @@ const config = {
     adminTeamPage: {
         leaders: [
             {
-                inGameName: "Wanter",
-                rank: "Owner",
-                skinUrlOrPathToFile: "",
-                rankColor: "rgba(255, 3, 3, 1)"
-            },
-            {
                 inGameName: "Favd0st",
                 rank: "Owner",
                 skinUrlOrPathToFile: "",
                 rankColor: "rgba(255, 3, 3, 1)"
             },
             {
-                inGameName: "Wanter",
+                inGameName: "SASUKE_6T9",
+                rank: "Owner",
+                skinUrlOrPathToFile: "",
+                rankColor: "rgba(255, 3, 3, 1)"
+            },
+            {
+                inGameName: "Nabil_YT",
                 rank: "Manager",
                 skinUrlOrPathToFile: "",
                 rankColor: ""
             },
             {
-                inGameName: "Wanter",
+                inGameName: "Nyxen",
                 rank: "Moderator",
                 skinUrlOrPathToFile: "",
                 rankColor: ""
@@ -72,19 +72,25 @@ const config = {
         ],
         developers: [
             {
-                inGameName: "Wanter",
+                inGameName: "Feloony",
                 rank: "Developer",
                 skinUrlOrPathToFile: "",
                 rankColor: ""
             },
             {
-                inGameName: "Wanter",
+                inGameName: "NorySight",
+                rank: "Developer",
+                skinUrlOrPathToFile: "",
+                rankColor: ""
+            },
+            {
+                inGameName: "Tamoor",
                 rank: "Webmaster",
                 skinUrlOrPathToFile: "",
                 rankColor: ""
             },
             {
-                inGameName: "Wanter",
+                inGameName: "Nabil_YT",
                 rank: "Discord manager",
                 skinUrlOrPathToFile: "",
                 rankColor: ""
@@ -97,7 +103,7 @@ const config = {
     Emails are sent via https://formsubmit.co/
     */
     contactPage: {
-        email: "support@minetree.xyz"
+        email: "astronavta@example.com"
     }
 }
 
